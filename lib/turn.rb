@@ -1,7 +1,7 @@
 # pseudocode
 # ask for input
 # convert input to index
-#   if index is valid 
+#   if index is valid
 #   make the move for index
 #   show the board
 # else
